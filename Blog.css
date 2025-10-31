@@ -16,6 +16,8 @@ body  {
   width: 400px;
   height: auto;
   display: block;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
 
 .headband-image {
@@ -59,7 +61,7 @@ h3 {
 .column {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 16px;
 }
 
 
