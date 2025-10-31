@@ -14,12 +14,12 @@ body  {
 
 .column img {
   width: 400px;
-  height: auto;
+  height: 400px;
 }
 
 .headband-image {
   width: 400px;
-  height: auto;
+  height: 350px;
 }
 .headband-row {
   display: flex;
