@@ -55,4 +55,10 @@ h3 {
   
 }
 
+@media (max-width: 600px) {
+  img {
+    display: inline-block;
+  }
+}
+    
 
