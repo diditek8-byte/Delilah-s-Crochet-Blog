@@ -15,14 +15,12 @@ body  {
 .column img {
   width: 400px;
   height: 400px;
-  object-fit: cover;
   margin: 0 auto;
 }
 
 .headband-image {
   width: 400px;
   height: 300px;
-  object-fit: cover;
 }
 
 h1, h3 {
