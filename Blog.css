@@ -2,9 +2,7 @@ body  {
   font-family: 'Playfair Display';
   background: #fff8f5;
   max-width: 800px;
-  padding: 20px;
   line-height: 1.4;
-  margin: 0 auto;
 }
 
 h1, h3 {
