@@ -25,6 +25,7 @@ body  {
 .headband-row {
   display: flex;
   justify-content: start;
+  margin-right: 0 auto;
 }
 
 h1, h3 {
