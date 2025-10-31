@@ -16,13 +16,13 @@ h1, h3 {
 }
 
 img {
-   margin: 10px;
+   display: block;
+   margin: 10px 0;
    border-radius: 8px;
 }
 
 p {
   text-align: justify;
-  max-width: 800px;
   margin-bottom: 10px;
 }
 
@@ -41,20 +41,20 @@ h3 {
 }
 
 .column {
-  flex-direction: row;
-  flex: 33.33%;
-  padding: 5px;
+  min-width: 0;
+  flex: 1;
 }
 
 
 
 .row {
   display: flex;
+  justiify-content: center;
 }
 
 .author {
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   
 }
 
