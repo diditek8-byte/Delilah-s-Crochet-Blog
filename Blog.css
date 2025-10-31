@@ -21,10 +21,8 @@ body  {
 .headband-image {
   width: 400px;
   height: 350px;
-}
-.headband-row {
-  display: flex;
-  justify-content: start;
+  margin: block;
+  display: block;
 }
 
 h1, h3 {
@@ -34,6 +32,12 @@ h1, h3 {
 img {
    display: block;
    border-radius: 8px;
+}
+
+article {
+  max-width: 800px
+  margin: 0 auto;
+  padding: 20px 0;
 }
 
 p {
