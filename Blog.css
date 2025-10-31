@@ -22,7 +22,6 @@ body  {
 .headband-image {
   width: 400px;
   height: 350px;
-  margin-top: 20px !important;
   display: block;
 }
 
@@ -59,7 +58,9 @@ h3 {
 }
 
 .column {
-  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 
