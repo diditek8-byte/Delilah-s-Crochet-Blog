@@ -59,6 +59,8 @@ h3 {
   img {
     flex-direction: row; 
   }
+  body {
+    padding: 20px;
 }
     
 
