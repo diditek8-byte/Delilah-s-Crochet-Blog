@@ -21,6 +21,8 @@ body  {
 .headband-image {
   width: 400px;
   height: auto;
+  display: flex;
+  justify-content: start;
 }
 
 h1, h3 {
