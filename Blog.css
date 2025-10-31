@@ -24,7 +24,6 @@ body  {
   heigth: 300px;
   object-fit: cover;
   display: block;
-  margin: 0 auto;
 }
 
 h1, h3 {
