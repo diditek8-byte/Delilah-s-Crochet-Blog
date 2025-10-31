@@ -80,5 +80,8 @@ h3 {
     align-items: center;
     gap: 20px;
   }
+  .headband-row img {
+    width: 100%;
+  }
 }
 
