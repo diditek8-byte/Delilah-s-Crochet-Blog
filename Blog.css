@@ -42,7 +42,7 @@ h3 {
 
 .column {
   min-width: 0;
-  flex: 1;
+  flex: 33.33%;
 }
 
 
