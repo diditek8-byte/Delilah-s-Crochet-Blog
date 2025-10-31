@@ -56,9 +56,8 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  .row {
-    display: grid;
-    grid-template-columns: 1fr;
+  img {
+    flex-direction: row; 
   }
 }
     
