@@ -53,7 +53,7 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  img {
+  .row .column{
     flex-direction: column; 
     padding: 20px;
     align-items: center;
