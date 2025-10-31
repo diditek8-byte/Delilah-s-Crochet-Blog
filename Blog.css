@@ -49,8 +49,9 @@ h3 {
 
 .row {
   display: flex;
-  justiify-content: center;
+  justify-content: center;
   gap: 10px;
+  margin-bottom: 20px
 }
 
 .author {
@@ -62,8 +63,8 @@ h3 {
 @media (max-width: 600px) {
   .row {
     flex-direction: column; 
-    padding: 20px;
     align-items: center;
+    gap: 20px;
   }
 }
 
