@@ -19,6 +19,14 @@ body  {
   margin: 0 auto;
 }
 
+.headband-image {
+  width: 400px;
+  heigth: 300px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
 h1, h3 {
    color: salmon;
 }
