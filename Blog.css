@@ -55,6 +55,7 @@ h3 {
   .row {
     flex-direction: row; 
     padding: 20px;
+    align-items: center;
   }
 }
 
