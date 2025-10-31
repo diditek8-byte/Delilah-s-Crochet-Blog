@@ -57,7 +57,9 @@ h3 {
 
 @media (max-width: 600px) {
   img {
-    display: inline;
+    display: flex;
+    align-content: start;
+    flex-direction: column;
   }
 }
     
