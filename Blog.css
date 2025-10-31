@@ -6,16 +6,15 @@ body  {
   padding: 0;
 }
 
-.container{
+.container {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
 
 .column img {
-  width: 100%;
   max-width: 400px;
-  height: auto;
+  height: 400px;
   display: block;
 }
 
