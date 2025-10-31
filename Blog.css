@@ -58,7 +58,7 @@ h3 {
 @media (max-width: 600px) {
   img {
     flex-direction: row; 
-    padding-right: 10px;
+    margin-left: 10px;
   }
     
 
