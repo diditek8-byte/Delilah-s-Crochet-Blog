@@ -16,7 +16,6 @@ body  {
   width: 400px;
   height: 400px;
   display: block;
-  aspect-ratio: 1 / 1;
   object-fit: cover;
 }
 
