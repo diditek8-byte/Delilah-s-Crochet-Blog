@@ -55,9 +55,10 @@ h3 {
   
 }
 
-@media (max-width: 700px) {
-  .row {
-    display: inline-bock;
+@media (max-width: 600px) {
+  img {
+    display: grid;
+    grid-template-columns: 1fr;
   }
 }
     
