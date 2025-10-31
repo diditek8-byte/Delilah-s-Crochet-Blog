@@ -12,25 +12,19 @@ body  {
   padding: 20px;
 }
 
-.column img {
-  width: 400px;
-  height: 400px;
-  display: block;
-}
-
-.headband-image {
+.column img,
+.headband-image{
   width: 400px;
   height: auto;
   display: block;
+  border-radius: 15px;
 }
+
 
 h1, h3 {
    color: salmon;
 }
 
-img {
-   border-radius: 15px;
-}
 
 article {
   margin: 0 auto;
