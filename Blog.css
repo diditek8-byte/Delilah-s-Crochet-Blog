@@ -56,7 +56,7 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  img {
+  .row {
     display: grid;
     grid-template-columns: 1fr;
   }
