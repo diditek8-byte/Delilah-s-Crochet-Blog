@@ -47,7 +47,7 @@ h3 {
 .column {
   min-width: 0;
   flex: 1;
-  max-width: 50;
+  max-width: 50px;
 }
 
 
