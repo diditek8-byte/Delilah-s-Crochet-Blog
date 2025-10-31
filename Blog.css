@@ -3,6 +3,8 @@ body  {
   background: #fff8f5;
   max-width: 800px;
   line-height: 1.4;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 h1, h3 {
