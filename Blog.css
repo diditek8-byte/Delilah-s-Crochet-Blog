@@ -14,13 +14,13 @@ body  {
 
 .column img {
   width: 400px;
-  height: 400px;
+  height: auto;
   display: block;
 }
 
 .headband-image {
   width: 400px;
-  height: 350px;
+  height: auto;
   display: block;
 }
 
