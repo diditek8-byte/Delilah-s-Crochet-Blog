@@ -23,7 +23,6 @@ body  {
   width: 400px;
   heigth: 300px;
   object-fit: cover;
-  display: block;
 }
 
 h1, h3 {
