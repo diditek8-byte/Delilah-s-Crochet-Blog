@@ -16,12 +16,13 @@ body  {
   width: 400px;
   height: 400px;
   display: block;
+  margin-bottom: 20px;
 }
 
 .headband-image {
   width: 400px;
   height: 350px;
-  margin-top: 20px;
+  margin-top: 20px !important;
   display: block;
 }
 
